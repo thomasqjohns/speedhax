@@ -22,4 +22,12 @@ Teams will be judged on how well they scoped project, their velocity, and total 
 A project that is scoped well and delivered completely but easy may beat a project that is not scoped well and delivered incomplete but was easy
 
 ## Past Results
+
+### 1st SpeedHack 
+   
+This was essentially the beta version. Super_testnet and Justin Moon and Intensethomas decided to create a Twitter ad network in 2 hours. The results are posted in this mediukm article.
+
+### 1st Official Hackathon
+
+This was our first Official SpeedHax held at TABCONF in atlanta. Justin Ragland,  ROcket city Bitcoin, Pleblab, and stacker news sponsered.
   
