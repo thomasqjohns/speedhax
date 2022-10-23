@@ -20,3 +20,6 @@ Once the scope is delivered to the judges then teams will each have 1 hour and 3
 Teams will be judged on how well they scoped project, their velocity, and total difficulty
 
 A project that is scoped well and delivered completely but easy may beat a project that is not scoped well and delivered incomplete but was easy
+
+## Past Results
+  
