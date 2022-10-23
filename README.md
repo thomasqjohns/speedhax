@@ -1,7 +1,7 @@
-# speedhax
+# SpeedHax
 A competitive program for becoming a better creator. 
 
-##Welcome to speed hax miscreants
+## Welcome to speed hax miscreants
 
 The goal of this speed hackathon is to develop your skills at estimating time, developing scope, and problem solving velocity.
 
