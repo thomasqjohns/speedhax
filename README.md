@@ -3,7 +3,10 @@ A competitive program for becoming a better creator.
 
 ## Welcome to speed hax miscreants
 
-The goal of this speed hackathon is to develop your skills at estimating time, developing scope, and problem solving velocity.
+The goal of this speed hackathon is to develop your skills at:
+- estimating time, 
+- developing scope 
+- problem solving velocity
 
 Each team will have 30 minutes to develop the scope or deliverables of what they will accomplish in next hour and 30 minutes. This could be as simple as delivering research on a certain topic to developing the whole app.
 
