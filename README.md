@@ -27,11 +27,11 @@ A project that is scoped well and delivered completely but easy may beat a proje
    
 This was essentially the beta version.  Randomly Super_testnet, Justin Moon and Intensethomas decided to create a Twitter ad network in 2 hours. The results are posted in this mediukm article.
 
-https://medium.com/@intensethomas/how-we-used-deep-work-to-build-an-ad-network-in-30-minutes-ef5fc631af13
+[How we made an ad network in 30 minutes ](https://medium.com/@intensethomas/how-we-used-deep-work-to-build-an-ad-network-in-30-minutes-ef5fc631af13)
 
 ### 1st Official SpeedHax
 
 This was our first Official SpeedHax held at TABCONF in atlanta. Justin Ragland,  ROcket city Bitcoin, Pleblab, and stacker news sponsered.
 
-https://twitter.com/intensethomas/status/1582020728765186050?s=20&t=_3ZH4zh2wMQ5IfIehPBatA
+[Learnings from the first official speedhax](https://twitter.com/intensethomas/status/1582020728765186050?s=20&t=_3ZH4zh2wMQ5IfIehPBatA)
   
