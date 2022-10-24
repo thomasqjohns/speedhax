@@ -1,7 +1,7 @@
 # SpeedHax
 A competitive program for becoming a better creator. 
 
-## Goalzzz 
+## Goalzzz 🤯
 
 The goal of this speed hackathon is to develop your skills at:
 - estimating time, 
