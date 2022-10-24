@@ -4,9 +4,9 @@ A competitive program for becoming a better creator.
 ## Goalzzz 🤯
 
 The goal of this speed hackathon is to develop your skills at:
-- estimating time, 
-- developing scope 
-- problem solving velocity
+- Estimating time
+- Developing scope 
+- Problem solving velocity
 
 
 ## SetUp
@@ -38,5 +38,5 @@ This was our first Official SpeedHax held at TABCONF in atlanta. Justin Ragland,
 
 ## Host your own SpeedHax
    
-Drop us a line on Git hub if you want us to come and host a speedhax at your school, conference, or business 
+Drop us a line on GitHub if you want us to come and host a speedhax at your school, conference, or business 
   
