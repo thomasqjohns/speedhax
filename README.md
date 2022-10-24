@@ -34,4 +34,9 @@ This was essentially the beta version.  Randomly Super_testnet, Justin Moon and 
 This was our first Official SpeedHax held at TABCONF in atlanta. Justin Ragland,  ROcket city Bitcoin, Pleblab, and stacker news sponsered.
 
 [Learnings from the first official speedhax](https://twitter.com/intensethomas/status/1582020728765186050?s=20&t=_3ZH4zh2wMQ5IfIehPBatA)
+
+
+## Host your own SpeedHax
+   
+Drop us a line on Git hub if you want us to come and host a speedhax at your school, conference, or business 
   
