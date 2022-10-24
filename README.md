@@ -23,11 +23,11 @@ A project that is scoped well and delivered completely but easy may beat a proje
 
 ## Past Results
 
-### 1st SpeedHack 
+### 1st SpeedHax **Beta** 
    
-This was essentially the beta version. Super_testnet and Justin Moon and Intensethomas decided to create a Twitter ad network in 2 hours. The results are posted in this mediukm article.
+This was essentially the beta version.  Randomly Super_testnet, Justin Moon and Intensethomas decided to create a Twitter ad network in 2 hours. The results are posted in this mediukm article.
 
-### 1st Official Hackathon
+### 1st Official SpeedHax
 
 This was our first Official SpeedHax held at TABCONF in atlanta. Justin Ragland,  ROcket city Bitcoin, Pleblab, and stacker news sponsered.
   
