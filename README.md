@@ -39,4 +39,8 @@ This was our first Official SpeedHax held at TABCONF in atlanta. Justin Ragland,
 ## Host your own SpeedHax
    
 Drop us a line on GitHub if you want us to come and host a speedhax at your school, conference, or business 
+
+## Let us know how you feel
+
+https://form.typeform.com/to/qtO7kJsW
   
